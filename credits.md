@@ -8,3 +8,4 @@
 - [Extract directory path in Lua](https://stackoverflow.com/questions/9102126/lua-return-directory-path-from-path) — originally used, now mostly redundant for Windows-only scope.
 - [PowerShell archive command](https://superuser.com/questions/1290498/powershell-to-zip-and-archive) — base for `.zip` generation in Windows.
 - [Microsoft PowerShell documentation](https://learn.microsoft.com/en-us/powershell) — general PowerShell reference.
+- [CMD %~dp0 variable](https://stackoverflow.com/questions/659647/how-to-get-folder-path-from-file-path-with-cmd) — used for PATH setup in installation instructions.
