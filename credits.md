@@ -1,0 +1,10 @@
+# Credits and References
+
+## Useful Links
+
+- [Passing args into Lua](https://docs.novatel.com/OEM7/Content/Lua/PassingArgumentsLua.htm) — concise reference for handling CLI arguments.
+- [Performance tip: batch read/write](https://www.lua.org/pil/21.2.1.html) — may be useful for future I/O optimizations.
+- [Using `io.popen`](https://www.tutorialspoint.com/io-popen-function-in-lua-programming) — process handling reference.
+- [Extract directory path in Lua](https://stackoverflow.com/questions/9102126/lua-return-directory-path-from-path) — originally used, now mostly redundant for Windows-only scope.
+- [PowerShell archive command](https://superuser.com/questions/1290498/powershell-to-zip-and-archive) — base for `.zip` generation in Windows.
+- [Microsoft PowerShell documentation](https://learn.microsoft.com/en-us/powershell) — general PowerShell reference.
