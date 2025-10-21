@@ -9,3 +9,5 @@
 - [PowerShell archive command](https://superuser.com/questions/1290498/powershell-to-zip-and-archive) — base for `.zip` generation in Windows.
 - [Microsoft PowerShell documentation](https://learn.microsoft.com/en-us/powershell) — general PowerShell reference.
 - [CMD %~dp0 variable](https://stackoverflow.com/questions/659647/how-to-get-folder-path-from-file-path-with-cmd) — used for PATH setup in installation instructions.
+- [Automating PATH setup in Windows (1)](https://stackoverflow.com/questions/1618280/how-to-set-path-environment-variable-in-windows-via-batch-file) — reference for `set-path.bat` script.
+- [Automating PATH setup in Windows (2)](https://stackoverflow.com/questions/9546324/adding-a-directory-to-the-path-environment-variable-in-windows) — reference for `set-path.bat` script.
