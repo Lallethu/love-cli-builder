@@ -12,7 +12,7 @@ rem │ │__  _   _  │ │    __ _│ │ │ ___│ │_│ │__  _   _
 rem │ '_ \│ │ │ │ │ │   / _` │ │ │/ _ \ __│ '_ \│ │ │ │
 rem │ │_) │ │_│ │ │ │__│ (_│ │ │ │  __/ │_│ │ │ │ │_│ │
 rem │_.__/ \__, │ │_____\__,_│_│_│\___│\__│_│ │_│\__,_│
-rem 		│___/
+rem 		   │___/
 
 rem %~dp0 is the directory of this batch file (ends with backslash)
 rem Call lua (requires lua on PATH) and forward all args (%*)
